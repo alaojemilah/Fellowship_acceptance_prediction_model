@@ -53,5 +53,5 @@ All three models achieved *100% accuracy*. However this is likely due to the sma
 - Scikit-learn
 
 ## Author
-Jemilah Alao | Data & Business Intelligence Analyst
-[LinkedIn](https://www.linkedin.com/in/jemilah-alao)
+Jemilah Alao | Data Analyst
+[LinkedIn](https://www.linkedin.com/in/jemilah-alao-8a684528a)
